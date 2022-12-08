@@ -1,0 +1,14 @@
+В ветку 'demo' сливали ветки 'boots' и 'button', также было сделано два коммита с коментариями 'dots' и 'boots'
+в ветку 'master' сливали ветку 'hat', также был сделан коммит с комментарием 'fix readme'
+в остальном эти ветки полностью совпадают
+
+
+
+7 коммитов:
+    Merge remote-tracking branch 'origin/buttons' into boots_buttons
+    Merge remote-tracking branch 'origin/boots' into boots_buttons
+    fix readme
+    dots
+    README added
+    boots
+    init
